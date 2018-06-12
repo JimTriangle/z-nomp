@@ -25,6 +25,8 @@ If your pool uses Z-NOMP let us know and we will list your website here.
 
 https://pool.cryptobroker.io/zcl Running MPOS and 0.5% of the fee goes to the Zclassic donation fund! 200+ blocks have been found as well! 
 
+https://www.ragnarpool.ovh Equihash Mining pool $BTCZ $LTZ, others are coming...
+
 http://luckpool.org Zcash Pool with Custom Frontend w/Miner's Jackpot
 
 http://zclmine.com/ Custom frontend
